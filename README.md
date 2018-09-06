@@ -17,3 +17,6 @@
 
 ### Install the bodyParser middleware to handle incoming json in express:
 `$ npm i body-parser --save`
+
+### Install the WebSocket module
+`$ npm i ws --save`
